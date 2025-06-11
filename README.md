@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying <br>Researching Deep Learning & Generative AI<br>Open to research collaborations, hackathons<br>I bring senior-level proficiency in Python and sophomore -level student in Ai&Ml
+I'm currently studying <br>Researching Deep Learning & Generative AI<br>Open to research collaborations, hackathons<br>I bring senior-level proficiency in Python and sophomore -level in Ai&Ml
 
 
 ## 🌐 Socials:
