@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently studying<br>Researching Deep Learning & Generative AI<br>Open to research collaborations, hackathons<br>I bring senior-level proficiency in Python and sophomore -level in Ai&Ml
 
+<img width="2000" height="2000" alt="octocat-1753373769683" src="https://github.com/user-attachments/assets/d2f27a45-f754-428e-a48a-3fe4d7144ec8" />
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/satyabratsahu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyabrat_266) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyabrat-sahu-638726324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/satyabratsahu71/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyabratsahu71@gmail.com) 
